@@ -26,11 +26,11 @@
             </ul>
         </nav>
     </header>
-    <!-- changed div to figure added title for alt attribute-->
-    <figure class="hero" title="main image"></figure>
+    <!-- changed div to figure added title for alt attribute, added role and aria-label since hero img doesn't have alt but aria-label will still assist screen-readers-->
+    <figure class="hero" role="img" aria-label="Image of coworkers around a conference table"></figure>
     <!-- changed div to main -->
     <main class="content">
-        <!-- changed div to section, missing id tag that makes the nav link work properly -->
+        <!-- changed div to section, missing id that makes the nav link work properly -->
         <section id="search-engine-optimization" class="search-engine-optimization">
             <img class="float-left" src="./assets/images/search-engine-optimization.jpg" alt="image of desk">
             <h2>Search Engine Optimization</h2>
@@ -94,7 +94,7 @@
     <footer class="footer">
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
-            &copy; 2019 Horiseon Social Solution Services, Inc.
+            &copy; 2022 Horiseon Social Solution Services, Inc.
         </p>
     </footer>
 </body>
