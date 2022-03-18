@@ -28,7 +28,10 @@ THEN I find a concise, descriptive title
 
 ```
 The resulting codebase follows acceptance criteria to the best 
-of my abilities. I believe the codebase is organized the best I know how. All of the code works and loads. The links work how they should be expected to work. The repository was created properly and followed proper naming conventions. 
+of my abilities. I believe the codebase is organized the best I 
+know how. All of the code works and loads. The links work how they 
+should be expected to work. The repository was created properly and 
+followed proper naming conventions. 
 ```
 
 
